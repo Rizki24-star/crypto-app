@@ -1,5 +1,5 @@
 import { Button, Menu, Typography, Avatar } from "antd";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { HomeOutlined, FundOutlined, MenuOutlined } from "@ant-design/icons";
 
 import icon from "../images/cryptocurrency.png";
